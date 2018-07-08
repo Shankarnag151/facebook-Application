@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-user = "shankarnag151@gmail.com"
-pwd = "*************"
+user = "username"  # Username for FB A/c.
+pwd = "password"   # Password for FB A/c.
 driver = webdriver.Chrome()
 driver.get("http://www.facebook.com")
 assert "Facebook" in driver.title
