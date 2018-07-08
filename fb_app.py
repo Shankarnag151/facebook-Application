@@ -11,6 +11,6 @@ elem = driver.find_element_by_id("pass")
 elem.send_keys(pwd)
 elem.send_keys(Keys.RETURN)
 
-self.driver.implicitly_wait(5)
+elem.driver.implicitly_wait(5)
 time.sleep(30)
 driver.close()
