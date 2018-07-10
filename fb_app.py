@@ -1,7 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-user = "shankarnag151@gmail.com"
-pwd = "9980390042"
+user = "FB Username"       # Enter your credentials to login FB..
+pwd = "FB Password"
 driver = webdriver.Chrome()
 driver.maximize_window()
 driver.get("http://www.facebook.com")
