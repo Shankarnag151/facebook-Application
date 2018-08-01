@@ -1,2 +1,2 @@
 # facebook-Application
-To login fb a/c via automative way..
+To login facebook account in an automatic way..
