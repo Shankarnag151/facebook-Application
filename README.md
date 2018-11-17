@@ -1,7 +1,7 @@
 # facebook-Application
 Objective :- To login facebook account in an automatic way..
 
-We built this application in a Python Language using some external library. So we have to install Python Software i.e, above Python 3.X Version.
+We built this application in a Python Language using some external library. So we have to install Python Software i.e, Python 3.X Version.
 
 Requirements:-
 
