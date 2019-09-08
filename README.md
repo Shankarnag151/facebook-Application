@@ -1,4 +1,4 @@
-# facebook-Application
+# facebook- Automation Application using python selenium.
 Objective :- To login facebook account in an automatic way..
 
 We built this application in a Python Language using some external library. So we have to install Python Software i.e, Python 3.X Version.
